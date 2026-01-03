@@ -68,7 +68,7 @@ export function PremiumUpgrade({ onClose, onPurchaseComplete }: PremiumUpgradePr
         Alert.alert(
             '🎉 Welcome to Pro!',
             'You now have lifetime access to all premium features. Thank you for supporting RiceBowl!',
-            [{ text: 'Start Exploring', onPress: onPurchaseComplete }]
+            [{ text: 'Start Exploring', onPress: () => onPurchaseComplete?.() }]
         );
     };
 
