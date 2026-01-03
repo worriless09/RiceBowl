@@ -190,10 +190,13 @@ function planLunch(
         );
 
         if (prioritizedRecipe) {
+            // Cook extra if recipe has many ingredients (worth the effort)
+            const shouldCookExtra = prioritizedRecipe.ingredients.length >= 5;
+
             return {
                 recipeId: prioritizedRecipe.id,
                 eatingOut: false,
-                cookExtra: prioritizedRecipe.time_tier >= 30, // Cook extra for longer recipes
+                cookExtra: shouldCookExtra,
             };
         }
     }
