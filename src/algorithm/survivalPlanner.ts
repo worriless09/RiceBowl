@@ -42,7 +42,7 @@ export function generateSurvivalPlan(input: SurvivalPlanInput): SurvivalPlanOutp
     const riceRuleViolations: RiceRuleViolation[] = [];
 
     // Step 1: Check for leftovers (9 PM trigger)
-    const leftovers = checkLeftovers(pantryItems, currentTime);
+    const leftovers = checkLeftovers(pantryItems, availableRecipes, currentTime);
     if (leftovers.hasLeftovers) {
         dailyPlan.lunch_recipe_id = leftovers.suggestedUpgrade?.id || null;
         dailyPlan.leftover_recipe_id = leftovers.originalRecipeId || null;
@@ -100,7 +100,11 @@ interface LeftoverCheckResult {
     upgradeDescription: string | null;
 }
 
-function checkLeftovers(pantryItems: PantryItem[], currentTime: string): LeftoverCheckResult {
+function checkLeftovers(
+    pantryItems: PantryItem[],
+    recipes: Recipe[],
+    currentTime: string
+): LeftoverCheckResult {
     // Trigger at 9 PM
     const hour = parseInt(currentTime.split(':')[0]);
     const isNinePM = hour === 21;
@@ -118,21 +122,26 @@ function checkLeftovers(pantryItems: PantryItem[], currentTime: string): Leftove
     }
 
     // Find upgrade recipes based on leftovers
-    const upgrades: Record<string, { recipe: string; description: string }> = {
-        'rice': { recipe: 'fried_rice', description: 'Transform leftover rice into quick fried rice' },
-        'dal': { recipe: 'dal_tadka', description: 'Reheat with fresh tadka for enhanced flavor' },
-        'roti': { recipe: 'roti_wrap', description: 'Make wraps with available fillings' },
-        'vegetables': { recipe: 'stir_fry', description: 'Quick stir-fry with fresh aromatics' },
+    const upgrades: Record<string, { recipeId: string; description: string }> = {
+        'rice': { recipeId: 'fried_rice', description: 'Transform leftover rice into quick fried rice' },
+        'dal': { recipeId: 'dal_tadka', description: 'Reheat with fresh tadka for enhanced flavor' },
+        'roti': { recipeId: 'roti_wrap', description: 'Make wraps with available fillings' },
+        'vegetables': { recipeId: 'stir_fry', description: 'Quick stir-fry with fresh aromatics' },
     };
 
-    // Return first available upgrade
+    // Return first available upgrade with resolved recipe
     for (const item of leftoverItems) {
         const upgrade = upgrades[item.ingredient_name.toLowerCase()];
         if (upgrade) {
+            // Look up the actual recipe from the database
+            const upgradeRecipe = recipes.find(
+                r => r.id === upgrade.recipeId || r.name.toLowerCase().includes(upgrade.recipeId.replace('_', ' '))
+            ) || null;
+
             return {
                 hasLeftovers: true,
                 originalRecipeId: item.leftover_from_recipe_id,
-                suggestedUpgrade: null, // Will be resolved from recipe DB
+                suggestedUpgrade: upgradeRecipe,
                 upgradeDescription: upgrade.description,
             };
         }
