@@ -27,7 +27,12 @@ const UPI_CONFIG = {
     payeeName: 'RiceBowl Pro',
     amount: '299',
     transactionNote: 'RiceBowl Pro Lifetime',
+    // WhatsApp number for support (with country code, no +)
+    whatsappNumber: '919883536592',
 };
+
+// Set to true for production release (disables auto-approval)
+const IS_PRODUCTION = false;
 
 // Storage key for pending verifications
 const PENDING_PAYMENTS_KEY = '@ricebowl/pending_payments';
@@ -71,6 +76,12 @@ export function UPIPayment({ onClose, onPaymentSuccess }: UPIPaymentProps) {
         }
     };
 
+    // Open WhatsApp with payment details
+    const openWhatsAppSupport = () => {
+        const message = `Hi! I just paid ₹${UPI_CONFIG.amount} for RiceBowl Pro.\n\nTransaction ID: ${transactionId}`;
+        Linking.openURL(`whatsapp://send?phone=${UPI_CONFIG.whatsappNumber}&text=${encodeURIComponent(message)}`);
+    };
+
     // Submit transaction ID for verification
     const handleSubmitTransaction = async () => {
         if (!transactionId.trim()) {
@@ -100,28 +111,33 @@ export function UPIPayment({ onClose, onPaymentSuccess }: UPIPaymentProps) {
             payments.push(pendingPayment);
             await AsyncStorage.setItem(PENDING_PAYMENTS_KEY, JSON.stringify(payments));
 
-            // For now, auto-approve (in production, verify manually or via backend)
-            // Comment this out if you want manual verification
-            Alert.alert(
-                '✅ Payment Submitted!',
-                'Your payment is being verified. You will receive Pro access within 24 hours.\n\nFor instant activation, send screenshot to WhatsApp.',
-                [
-                    {
-                        text: 'Open WhatsApp',
-                        onPress: () => {
-                            const message = `Hi! I just paid ₹299 for RiceBowl Pro.\n\nTransaction ID: ${transactionId}`;
-                            Linking.openURL(`whatsapp://send?phone=919883536592&text=${encodeURIComponent(message)}`);
+            if (IS_PRODUCTION) {
+                // Production: Manual verification required
+                Alert.alert(
+                    '✅ Payment Submitted!',
+                    'Your payment is being verified. You will receive Pro access within 24 hours.\n\nFor instant activation, send screenshot to WhatsApp.',
+                    [
+                        { text: 'Open WhatsApp', onPress: openWhatsAppSupport },
+                        { text: 'OK', onPress: onClose }
+                    ]
+                );
+            } else {
+                // Development: Auto-approve for testing
+                Alert.alert(
+                    '✅ Payment Submitted!',
+                    'Your payment is being verified. You will receive Pro access within 24 hours.\n\nFor instant activation, send screenshot to WhatsApp.',
+                    [
+                        { text: 'Open WhatsApp', onPress: openWhatsAppSupport },
+                        {
+                            text: 'OK',
+                            onPress: () => {
+                                onPaymentSuccess(); // Auto-unlock for development testing only
+                                onClose();
+                            }
                         }
-                    },
-                    {
-                        text: 'OK',
-                        onPress: () => {
-                            onPaymentSuccess(); // Auto-unlock for testing
-                            onClose();
-                        }
-                    }
-                ]
-            );
+                    ]
+                );
+            }
 
         } catch (error) {
             Alert.alert('Error', 'Failed to submit. Please try again.');
