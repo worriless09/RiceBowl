@@ -1,0 +1,269 @@
+[
+    {
+        "id": "assembly_1",
+        "name": "Scrambled Eggs",
+        "description": "High protein brain food, ready in 5 minutes",
+        "time_tier": 10,
+        "prep_time_minutes": 2,
+        "cook_time_minutes": 5,
+        "is_rice_friendly": true,
+        "is_wet": true,
+        "is_dry": false,
+        "is_deskside": false,
+        "is_grab_and_go": false,
+        "is_comfort_food": true,
+        "is_premium": false,
+        "is_vegetarian": true,
+        "is_vegan": false,
+        "ingredients": [
+            {
+                "name": "Eggs",
+                "quantity": 2,
+                "unit": "pieces",
+                "is_optional": false,
+                "substitutes": []
+            },
+            {
+                "name": "Butter",
+                "quantity": 1,
+                "unit": "tbsp",
+                "is_optional": true,
+                "substitutes": [
+                    "Oil"
+                ]
+            },
+            {
+                "name": "Salt",
+                "quantity": 1,
+                "unit": "pinch",
+                "is_optional": false,
+                "substitutes": []
+            }
+        ],
+        "steps": [
+            "Crack eggs into bowl and whisk",
+            "Heat butter in pan on medium",
+            "Pour eggs and stir gently",
+            "Remove when just set",
+            "Season and serve"
+        ],
+        "requires_soaking": false,
+        "soak_ingredient": null,
+        "soak_hours": 0,
+        "cuisine": "universal",
+        "calories_approx": 200,
+        "protein_approx": 14
+    },
+    {
+        "id": "assembly_2",
+        "name": "Veggie Sandwich",
+        "description": "Quick assembly, balanced nutrition",
+        "time_tier": 10,
+        "prep_time_minutes": 5,
+        "cook_time_minutes": 2,
+        "is_rice_friendly": false,
+        "is_wet": false,
+        "is_dry": true,
+        "is_deskside": true,
+        "is_grab_and_go": false,
+        "is_comfort_food": true,
+        "is_premium": false,
+        "is_vegetarian": true,
+        "is_vegan": false,
+        "ingredients": [
+            {
+                "name": "Bread",
+                "quantity": 2,
+                "unit": "slices",
+                "is_optional": false,
+                "substitutes": []
+            },
+            {
+                "name": "Cucumber",
+                "quantity": 0.5,
+                "unit": "piece",
+                "is_optional": false,
+                "substitutes": []
+            },
+            {
+                "name": "Tomato",
+                "quantity": 0.5,
+                "unit": "piece",
+                "is_optional": false,
+                "substitutes": []
+            },
+            {
+                "name": "Cheese",
+                "quantity": 1,
+                "unit": "slice",
+                "is_optional": true,
+                "substitutes": []
+            }
+        ],
+        "steps": [
+            "Toast bread if desired",
+            "Slice vegetables thinly",
+            "Layer on bread",
+            "Add cheese and condiments",
+            "Close and eat"
+        ],
+        "requires_soaking": false,
+        "soak_ingredient": null,
+        "soak_hours": 0,
+        "cuisine": "universal",
+        "calories_approx": 320,
+        "protein_approx": 12
+    },
+    {
+        "id": "assembly_3",
+        "name": "Instant Poha",
+        "description": "Flattened rice magic - filling and light",
+        "time_tier": 10,
+        "prep_time_minutes": 3,
+        "cook_time_minutes": 7,
+        "is_rice_friendly": true,
+        "is_wet": false,
+        "is_dry": true,
+        "is_deskside": false,
+        "is_grab_and_go": false,
+        "is_comfort_food": true,
+        "is_premium": false,
+        "is_vegetarian": true,
+        "is_vegan": true,
+        "ingredients": [
+            {
+                "name": "Poha",
+                "quantity": 1,
+                "unit": "cup",
+                "is_optional": false,
+                "substitutes": []
+            },
+            {
+                "name": "Onion",
+                "quantity": 0.5,
+                "unit": "piece",
+                "is_optional": false,
+                "substitutes": []
+            },
+            {
+                "name": "Mustard Seeds",
+                "quantity": 0.5,
+                "unit": "tsp",
+                "is_optional": true,
+                "substitutes": []
+            },
+            {
+                "name": "Turmeric",
+                "quantity": 0.25,
+                "unit": "tsp",
+                "is_optional": false,
+                "substitutes": []
+            }
+        ],
+        "steps": [
+            "Rinse poha and drain",
+            "Heat oil, add mustard seeds",
+            "Add onion, sauté",
+            "Add poha and turmeric",
+            "Mix and serve with lemon"
+        ],
+        "requires_soaking": false,
+        "soak_ingredient": null,
+        "soak_hours": 0,
+        "cuisine": "indian",
+        "calories_approx": 280,
+        "protein_approx": 6
+    },
+    {
+        "id": "assembly_4",
+        "name": "Heated Leftovers",
+        "description": "Zero decisions, maximum efficiency",
+        "time_tier": 10,
+        "prep_time_minutes": 1,
+        "cook_time_minutes": 5,
+        "is_rice_friendly": true,
+        "is_wet": true,
+        "is_dry": false,
+        "is_deskside": false,
+        "is_grab_and_go": false,
+        "is_comfort_food": true,
+        "is_premium": false,
+        "is_vegetarian": false,
+        "is_vegan": false,
+        "ingredients": [
+            {
+                "name": "Leftovers",
+                "quantity": 1,
+                "unit": "portion",
+                "is_optional": false,
+                "substitutes": []
+            }
+        ],
+        "steps": [
+            "Find leftovers in fridge",
+            "Transfer to microwave-safe bowl",
+            "Heat 3-5 minutes",
+            "Stir and check temperature",
+            "Eat immediately"
+        ],
+        "requires_soaking": false,
+        "soak_ingredient": null,
+        "soak_hours": 0,
+        "cuisine": "varies",
+        "calories_approx": 400,
+        "protein_approx": 20
+    },
+    {
+        "id": "assembly_5",
+        "name": "Maggi Noodles",
+        "description": "The classic student survival food",
+        "time_tier": 10,
+        "prep_time_minutes": 1,
+        "cook_time_minutes": 5,
+        "is_rice_friendly": false,
+        "is_wet": true,
+        "is_dry": false,
+        "is_deskside": false,
+        "is_grab_and_go": false,
+        "is_comfort_food": true,
+        "is_premium": false,
+        "is_vegetarian": true,
+        "is_vegan": false,
+        "ingredients": [
+            {
+                "name": "Maggi/Instant Noodles",
+                "quantity": 1,
+                "unit": "pack",
+                "is_optional": false,
+                "substitutes": []
+            },
+            {
+                "name": "Water",
+                "quantity": 1.5,
+                "unit": "cups",
+                "is_optional": false,
+                "substitutes": []
+            },
+            {
+                "name": "Vegetables",
+                "quantity": 0.5,
+                "unit": "cup",
+                "is_optional": true,
+                "substitutes": []
+            }
+        ],
+        "steps": [
+            "Boil water in pot",
+            "Add noodles and masala",
+            "Cook 2-3 minutes",
+            "Add veggies if using",
+            "Serve hot"
+        ],
+        "requires_soaking": false,
+        "soak_ingredient": null,
+        "soak_hours": 0,
+        "cuisine": "indian",
+        "calories_approx": 350,
+        "protein_approx": 8
+    }
+]

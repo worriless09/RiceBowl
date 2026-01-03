@@ -1,0 +1,2041 @@
+[
+    {
+        "id": "1",
+        "name": "The Classic Banana",
+        "tier": 1,
+        "prep_time": 1,
+        "servings": 1,
+        "tags": [
+            "vegan",
+            "deskside",
+            "energy"
+        ],
+        "ingredients": [
+            "1 ripe banana (medium-sized)"
+        ],
+        "instructions": "1. Select a banana with yellow skin and a few brown spots for best sweetness.\n2. Hold the banana stem-down and pinch the top to peel easily.\n3. Peel back in strips, but don't remove completely - use peel as a holder.\n4. Eat in bites, don't rush.\n5. Dispose of peel in dustbin (not on floor - injury hazard!).",
+        "tips": "Pair with 5 almonds for sustained energy. Freeze overripe bananas for smoothies later."
+    },
+    {
+        "id": "2",
+        "name": "Peanut Butter Spoon",
+        "tier": 1,
+        "prep_time": 1,
+        "servings": 1,
+        "tags": [
+            "vegetarian",
+            "high-protein",
+            "deskside"
+        ],
+        "ingredients": [
+            "2 tbsp peanut butter (creamy or crunchy)"
+        ],
+        "instructions": "1. Open the peanut butter jar.\n2. Take a clean tablespoon.\n3. Scoop a heaping spoonful of peanut butter.\n4. Eat directly off the spoon, letting it dissolve slowly.\n5. Follow with water if it feels too thick.\n6. Wipe spoon clean before second scoop if needed.",
+        "tips": "Choose unsweetened peanut butter for healthier option. Natural PB needs stirring - store upside down."
+    },
+    {
+        "id": "3",
+        "name": "Handful of Almonds",
+        "tier": 1,
+        "prep_time": 1,
+        "servings": 1,
+        "tags": [
+            "vegan",
+            "deskside",
+            "brain-food"
+        ],
+        "ingredients": [
+            "10-12 whole almonds (raw or roasted)"
+        ],
+        "instructions": "1. Count out 10-12 almonds (this is the ideal serving).\n2. If raw, eat slowly and chew thoroughly for better digestion.\n3. If roasted, enjoy the crunch but limit salt intake.\n4. For soaked almonds: soak overnight in water, peel skin in morning.\n5. Chew each almond 15-20 times for maximum nutrient absorption.",
+        "tips": "Soaked almonds are easier to digest. Keep a small container at your desk for daily portions."
+    },
+    {
+        "id": "4",
+        "name": "Roasted Chana (Chickpeas)",
+        "tier": 1,
+        "prep_time": 1,
+        "servings": 1,
+        "tags": [
+            "vegan",
+            "high-protein",
+            "deskside",
+            "cheap"
+        ],
+        "ingredients": [
+            "1/4 cup roasted chana (approx 30g)",
+            "Pinch of chaat masala (optional)"
+        ],
+        "instructions": "1. Pour roasted chana into a small bowl or directly from packet.\n2. Sprinkle chaat masala if you like tangy flavor.\n3. Eat slowly - chana is dense and filling.\n4. Drink water after eating to help digestion.\n5. Avoid eating too fast as it can cause bloating.",
+        "tips": "Buy in bulk (1kg packets are cheaper). Store in airtight container to keep crispy."
+    },
+    {
+        "id": "5",
+        "name": "Dates (Khajoor)",
+        "tier": 1,
+        "prep_time": 1,
+        "servings": 1,
+        "tags": [
+            "vegan",
+            "sweet",
+            "deskside"
+        ],
+        "ingredients": [
+            "2-3 dates (medjool or regular)",
+            "1-2 almonds (optional, for stuffing)"
+        ],
+        "instructions": "1. Take 2-3 dates from the container.\n2. Check for any pits - remove if present.\n3. For stuffed dates: make a slit, remove pit, insert an almond.\n4. Eat one at a time, savoring the natural sweetness.\n5. Follow with water - dates are very sweet.",
+        "tips": "Dates + almonds = perfect pre-workout snack. Store in fridge during summer to prevent stickiness."
+    },
+    {
+        "id": "6",
+        "name": "Plain Curd (Dahi)",
+        "tier": 1,
+        "prep_time": 1,
+        "servings": 1,
+        "tags": [
+            "vegetarian",
+            "probiotic",
+            "cooling"
+        ],
+        "ingredients": [
+            "1 cup fresh curd (200g)",
+            "Pinch of sugar or salt (optional)"
+        ],
+        "instructions": "1. Take fresh curd out of fridge 5 minutes before eating.\n2. Scoop into a clean bowl.\n3. Add a pinch of sugar for sweet or salt for savory.\n4. Mix gently - don't over-stir or it becomes watery.\n5. Eat with a spoon, slowly.\n6. Best consumed within 2-3 days of setting.",
+        "tips": "Homemade curd is thicker. If too sour, mix with a little milk. Great for digestion after heavy meals."
+    },
+    {
+        "id": "7",
+        "name": "Marie Biscuit & Tea",
+        "tier": 1,
+        "prep_time": 5,
+        "servings": 1,
+        "tags": [
+            "vegetarian",
+            "classic",
+            "comfort"
+        ],
+        "ingredients": [
+            "4-6 Marie biscuits",
+            "1 cup hot chai (prepared)",
+            "Sugar as per taste"
+        ],
+        "instructions": "1. Prepare your tea or use ready chai.\n2. Take 4-6 Marie biscuits on a plate.\n3. Dip one biscuit in tea for 2-3 seconds only.\n4. Eat immediately before it breaks.\n5. Repeat with remaining biscuits.\n6. Drink remaining tea once biscuits are done.",
+        "tips": "Don't over-dip or biscuit will fall into tea. Marie/Parle-G work best for dunking."
+    },
+    {
+        "id": "8",
+        "name": "Boiled Egg (Pre-made)",
+        "tier": 1,
+        "prep_time": 1,
+        "servings": 1,
+        "tags": [
+            "high-protein",
+            "deskside"
+        ],
+        "ingredients": [
+            "1-2 pre-boiled eggs",
+            "Pinch of salt",
+            "Pinch of black pepper",
+            "Chaat masala (optional)"
+        ],
+        "instructions": "1. Take pre-boiled egg from fridge.\n2. Gently tap the shell on counter to crack it.\n3. Peel shell carefully under running water if stuck.\n4. Cut in half or eat whole.\n5. Sprinkle salt and pepper or chaat masala.\n6. Eat with bread if desired.",
+        "tips": "Boil 6 eggs on Sunday - keeps 5-7 days in fridge. Mark boiled eggs with 'X' to differentiate from raw."
+    },
+    {
+        "id": "9",
+        "name": "Apple Slices",
+        "tier": 1,
+        "prep_time": 2,
+        "servings": 1,
+        "tags": [
+            "vegan",
+            "deskside",
+            "fiber"
+        ],
+        "ingredients": [
+            "1 medium apple (any variety)",
+            "Pinch of chaat masala (optional)",
+            "Few drops of lemon juice (optional)"
+        ],
+        "instructions": "1. Wash the apple thoroughly under running water.\n2. Option A: Bite directly into the apple.\n3. Option B: Cut into 6-8 wedges, remove core.\n4. If pre-cutting, sprinkle lemon juice to prevent browning.\n5. Add chaat masala for extra flavor.\n6. Eat within 30 mins of cutting.",
+        "tips": "Keep skin on for fiber. Red apples are sweeter, green are tangy. Store apples in fridge for crunch."
+    },
+    {
+        "id": "10",
+        "name": "Glass of Milk",
+        "tier": 1,
+        "prep_time": 1,
+        "servings": 1,
+        "tags": [
+            "vegetarian",
+            "calcium",
+            "liquid"
+        ],
+        "ingredients": [
+            "1 glass full-cream or toned milk (250ml)",
+            "1 tsp sugar or honey (optional)",
+            "Pinch of turmeric (optional, for haldi doodh)"
+        ],
+        "instructions": "1. Pour milk into a clean glass.\n2. For cold milk: drink directly from fridge.\n3. For warm milk: heat in microwave for 1 min or stove for 2 mins.\n4. Add sugar/honey if desired and stir.\n5. Drink slowly - don't gulp.\n6. Best consumed before bed or in morning.",
+        "tips": "Warm milk with honey helps sleep. Add a pinch of turmeric for immunity boost. Shake packet before opening."
+    },
+    {
+        "id": "11",
+        "name": "Bread Butter",
+        "tier": 1,
+        "prep_time": 2,
+        "servings": 1,
+        "tags": [
+            "vegetarian",
+            "classic"
+        ],
+        "ingredients": [
+            "2 slices white or brown bread",
+            "1 tbsp salted butter (at room temperature)"
+        ],
+        "instructions": "1. Take butter out of fridge 10 mins prior so it's spreadable.\n2. Place bread slices on a plate.\n3. Take butter on knife and spread evenly edge-to-edge.\n4. Fold one slice over or eat open-faced.\n5. For extra taste, lightly toast bread first.\n6. Eat immediately for best texture.",
+        "tips": "Room temperature butter spreads without tearing bread. Add jam on top of butter for sweet version."
+    },
+    {
+        "id": "12",
+        "name": "Bread Jam",
+        "tier": 1,
+        "prep_time": 2,
+        "servings": 1,
+        "tags": [
+            "vegetarian",
+            "sweet"
+        ],
+        "ingredients": [
+            "2 slices bread",
+            "2 tbsp mixed fruit jam or strawberry jam"
+        ],
+        "instructions": "1. Place bread slices on a clean plate.\n2. Scoop jam with a clean spoon.\n3. Spread jam evenly on one slice.\n4. Place second slice on top or eat open.\n5. Cut diagonally for sandwich style.\n6. Enjoy with a glass of milk.",
+        "tips": "Use a knife for even spreading. Toast bread first for better texture. Try with butter underneath jam."
+    },
+    {
+        "id": "13",
+        "name": "Cucumber Slices with Salt",
+        "tier": 1,
+        "prep_time": 3,
+        "servings": 1,
+        "tags": [
+            "vegan",
+            "hydrating",
+            "light"
+        ],
+        "ingredients": [
+            "1 medium cucumber",
+            "1/4 tsp salt",
+            "1/4 tsp chaat masala",
+            "Few drops of lemon juice (optional)"
+        ],
+        "instructions": "1. Wash cucumber thoroughly under running water.\n2. Peel the skin (optional - skin has nutrients).\n3. Cut into round slices about 1cm thick.\n4. Arrange on a plate.\n5. Sprinkle salt and chaat masala evenly.\n6. Add lemon juice if desired.\n7. Eat within 15 mins - gets watery later.",
+        "tips": "Refrigerate cucumber before cutting for extra refreshing taste. Great for hydration in summer."
+    },
+    {
+        "id": "14",
+        "name": "Walnuts",
+        "tier": 1,
+        "prep_time": 1,
+        "servings": 1,
+        "tags": [
+            "vegan",
+            "brain-food",
+            "deskside"
+        ],
+        "ingredients": [
+            "4-5 walnut halves (approx 30g)"
+        ],
+        "instructions": "1. Take 4-5 walnut halves from container.\n2. Inspect for any dark spots or rancid smell.\n3. Eat slowly, chewing thoroughly.\n4. The slight bitterness is normal - it's the tannins.\n5. Follow with water if mouth feels dry.",
+        "tips": "Walnuts are best for brain health. Store in fridge to prevent going rancid. Soak in water overnight for easier digestion."
+    },
+    {
+        "id": "15",
+        "name": "Glucose Biscuits (Parle-G)",
+        "tier": 1,
+        "prep_time": 1,
+        "servings": 1,
+        "tags": [
+            "vegetarian",
+            "cheap",
+            "classic"
+        ],
+        "ingredients": [
+            "4 Parle-G or glucose biscuits",
+            "1 cup tea or milk (optional)"
+        ],
+        "instructions": "1. Open packet carefully to keep remaining fresh.\n2. Take out 4 biscuits only (portion control!).\n3. Seal packet with clip or rubber band.\n4. Eat directly or dip in tea/milk.\n5. If dunking, hold for only 2 seconds.\n6. Store remaining in airtight container.",
+        "tips": "Don't eat entire packet - 4 biscuits = 1 serving. Great emergency snack to keep at desk."
+    },
+    {
+        "id": "16",
+        "name": "Chocolate Square",
+        "tier": 1,
+        "prep_time": 1,
+        "servings": 1,
+        "tags": [
+            "vegetarian",
+            "mood-lift"
+        ],
+        "ingredients": [
+            "1-2 squares dark chocolate (70% cocoa preferred)",
+            "10-15g per serving"
+        ],
+        "instructions": "1. Break off 1-2 squares from the bar.\n2. Put remaining back immediately (resist temptation!).\n3. Let chocolate sit on tongue for 10 seconds.\n4. Slowly chew and savor the flavor.\n5. Don't eat more than 2 squares per sitting.\n6. Follow with water if desired.",
+        "tips": "Dark chocolate (70%+) has antioxidants. Store in cool, dry place - not fridge as it blooms white."
+    },
+    {
+        "id": "17",
+        "name": "Puffed Rice (Muri/Kurmura)",
+        "tier": 1,
+        "prep_time": 1,
+        "servings": 1,
+        "tags": [
+            "vegan",
+            "light",
+            "deskside"
+        ],
+        "ingredients": [
+            "1 cup puffed rice (muri)",
+            "Pinch of salt",
+            "1/4 tsp mustard oil (optional, Bengali style)"
+        ],
+        "instructions": "1. Pour puffed rice into a bowl.\n2. Add a pinch of salt.\n3. For Bengali style: add few drops mustard oil.\n4. Toss quickly with your hands.\n5. Eat immediately - gets soggy if left.\n6. Light enough to eat while working.",
+        "tips": "Very low calorie filler. Add chopped onion and green chili for jhalmuri. Keep packet sealed tight."
+    },
+    {
+        "id": "18",
+        "name": "Carrot Sticks",
+        "tier": 1,
+        "prep_time": 2,
+        "servings": 1,
+        "tags": [
+            "vegan",
+            "deskside",
+            "crunchy"
+        ],
+        "ingredients": [
+            "1 medium carrot",
+            "Pinch of salt (optional)",
+            "Hummus for dipping (optional)"
+        ],
+        "instructions": "1. Wash carrot under running water, scrub if dirty.\n2. Peel with a vegetable peeler (optional).\n3. Cut off both ends.\n4. Cut into 4 lengthwise sticks.\n5. Eat directly like Bugs Bunny.\n6. Dip in hummus for extra protein.",
+        "tips": "Carrots improve eyesight (beta-carotene). Keep pre-cut sticks in water in fridge for a week."
+    },
+    {
+        "id": "19",
+        "name": "Sattu Drink",
+        "tier": 1,
+        "prep_time": 3,
+        "servings": 1,
+        "tags": [
+            "vegan",
+            "high-protein",
+            "liquid",
+            "cooling"
+        ],
+        "ingredients": [
+            "2 tbsp sattu powder (roasted gram flour)",
+            "1 glass cold water (300ml)",
+            "1/4 tsp black salt (kala namak)",
+            "1/2 lemon juice",
+            "Pinch of roasted cumin powder"
+        ],
+        "instructions": "1. Add sattu powder to a glass.\n2. Pour water and stir vigorously to prevent lumps.\n3. Add black salt and cumin powder.\n4. Squeeze in lemon juice.\n5. Stir well again.\n6. Drink immediately - sattu settles quickly.\n7. Best consumed in summer for cooling.",
+        "tips": "Bihar's superfood! High protein and keeps you full. Can make sweet version with jaggery instead of salt."
+    },
+    {
+        "id": "20",
+        "name": "Buttermilk (Chaas)",
+        "tier": 1,
+        "prep_time": 2,
+        "servings": 1,
+        "tags": [
+            "vegetarian",
+            "cooling",
+            "liquid"
+        ],
+        "ingredients": [
+            "1/2 cup fresh curd",
+            "1 cup cold water",
+            "1/4 tsp salt",
+            "1/4 tsp roasted cumin powder",
+            "Few curry leaves or mint (optional)"
+        ],
+        "instructions": "1. Add curd to a tall glass or bottle.\n2. Add cold water (2:1 ratio water to curd).\n3. Add salt and cumin powder.\n4. Blend with hand blender or shake vigorously.\n5. Pour into glass, add ice if desired.\n6. Garnish with curry leaves or mint.\n7. Drink immediately.",
+        "tips": "Great for digestion after heavy meals. Adjust water ratio for thicker or thinner consistency."
+    },
+    {
+        "id": "21",
+        "name": "Peanut Butter Toast",
+        "tier": 2,
+        "prep_time": 5,
+        "servings": 1,
+        "tags": [
+            "vegetarian",
+            "high-protein",
+            "filling"
+        ],
+        "ingredients": [
+            "2 slices bread (brown preferred)",
+            "2 tbsp peanut butter",
+            "1/2 banana, sliced (optional)",
+            "Drizzle of honey (optional)"
+        ],
+        "instructions": "1. Toast bread slices until golden brown (toaster or tawa).\n2. While warm, spread peanut butter generously on each slice.\n3. The warmth will make PB slightly melty.\n4. For power version: add banana slices on top.\n5. Drizzle honey for extra energy.\n6. Eat immediately while warm.",
+        "tips": "Great pre-workout meal. Use crunchy PB for texture. Best breakfast for sustained energy."
+    },
+    {
+        "id": "22",
+        "name": "Cheese Toast",
+        "tier": 2,
+        "prep_time": 5,
+        "servings": 1,
+        "tags": [
+            "vegetarian",
+            "savory"
+        ],
+        "ingredients": [
+            "2 slices bread",
+            "1 cheese slice (Amul/Britannia)",
+            "1/2 tsp butter",
+            "Pinch of oregano (optional)"
+        ],
+        "instructions": "1. Heat tawa on medium flame.\n2. Apply thin layer of butter on one side of bread.\n3. Place bread butter-side down on tawa.\n4. Place cheese slice on top immediately.\n5. Cover with lid for 30 seconds to melt cheese.\n6. Remove when bottom is golden.\n7. Sprinkle oregano if desired.",
+        "tips": "Cover with lid to melt cheese faster. Don't flip - cheese should be gooey on top."
+    },
+    {
+        "id": "23",
+        "name": "Scrambled Eggs",
+        "tier": 2,
+        "prep_time": 7,
+        "servings": 1,
+        "tags": [
+            "high-protein",
+            "classic"
+        ],
+        "ingredients": [
+            "2 eggs",
+            "1 tbsp butter",
+            "2 tbsp milk (optional, for fluffiness)",
+            "Salt to taste",
+            "Pinch of black pepper",
+            "Fresh coriander for garnish (optional)"
+        ],
+        "instructions": "1. Crack eggs into a bowl, add milk if using.\n2. Beat with fork until yolks and whites are mixed (30 seconds).\n3. Add salt and pepper to the mixture.\n4. Heat butter in a non-stick pan on LOW heat.\n5. Pour egg mixture when butter starts to foam.\n6. Wait 20 seconds, then gently stir with spatula.\n7. Continue stirring gently every 10 seconds.\n8. Remove from heat while still slightly wet (carryover cooking).\n9. Serve immediately on toast or with bread.",
+        "tips": "Secret is LOW heat and patience. Eggs continue cooking off heat. Over-stirring makes them rubbery."
+    },
+    {
+        "id": "24",
+        "name": "Maggi (Classic)",
+        "tier": 2,
+        "prep_time": 5,
+        "servings": 1,
+        "tags": [
+            "vegetarian",
+            "comfort"
+        ],
+        "ingredients": [
+            "1 packet Maggi noodles",
+            "1.5 cups water (approximately 350ml)",
+            "1 Maggi tastemaker sachet (included)",
+            "1 tsp butter (optional, for richness)"
+        ],
+        "instructions": "1. Boil 1.5 cups water in a deep pan on high heat.\n2. Once boiling, add the tastemaker and stir well.\n3. Add the noodle cake, do not break it.\n4. Reduce heat to medium.\n5. After 1 minute, gently loosen noodles with fork.\n6. Cook for another 1-2 minutes, stirring occasionally.\n7. Turn off when most water is absorbed but still slightly soupy.\n8. Add butter and mix if desired.\n9. Serve hot in a bowl, eat while watching something.",
+        "tips": "Don't overcook or noodles get mushy. The 2-minute claim is a lie - takes 3-4 mins. Add vegetables or egg for nutrition."
+    },
+    {
+        "id": "25",
+        "name": "Egg Maggi",
+        "tier": 2,
+        "prep_time": 8,
+        "tags": [
+            "high-protein",
+            "filling"
+        ],
+        "ingredients": [
+            "Maggi",
+            "1 Egg"
+        ],
+        "instructions": "While Maggi boils, crack an egg into it. Stir for bhurji style."
+    },
+    {
+        "id": "26",
+        "name": "Wai Wai Sadheko",
+        "tier": 2,
+        "prep_time": 5,
+        "tags": [
+            "vegan",
+            "spicy",
+            "crunchy"
+        ],
+        "ingredients": [
+            "Wai Wai",
+            "Onion",
+            "Lemon",
+            "Oil"
+        ],
+        "instructions": "Crush raw noodles. Mix with chopped onion, masala, oil, lemon."
+    },
+    {
+        "id": "27",
+        "name": "Bread Omelette",
+        "tier": 2,
+        "prep_time": 10,
+        "tags": [
+            "high-protein",
+            "filling"
+        ],
+        "ingredients": [
+            "2 Eggs",
+            "2 Bread",
+            "Onion"
+        ],
+        "instructions": "Make omelette. Place bread on top while wet. Flip."
+    },
+    {
+        "id": "28",
+        "name": "Masala Oats",
+        "tier": 2,
+        "prep_time": 5,
+        "tags": [
+            "vegetarian",
+            "fiber"
+        ],
+        "ingredients": [
+            "Instant Oats",
+            "Water/Milk"
+        ],
+        "instructions": "Cook oats with water/milk. Add magic masala or salt."
+    },
+    {
+        "id": "29",
+        "name": "Cornflakes & Milk",
+        "tier": 2,
+        "prep_time": 2,
+        "tags": [
+            "vegetarian",
+            "classic"
+        ],
+        "ingredients": [
+            "Cornflakes",
+            "Milk",
+            "Sugar"
+        ],
+        "instructions": "Pour milk over flakes. Eat before soggy."
+    },
+    {
+        "id": "30",
+        "name": "Muesli & Curd",
+        "tier": 2,
+        "prep_time": 2,
+        "tags": [
+            "vegetarian",
+            "healthy",
+            "no-cook"
+        ],
+        "ingredients": [
+            "Muesli",
+            "Curd"
+        ],
+        "instructions": "Mix muesli into a bowl of curd. Great breakfast."
+    },
+    {
+        "id": "31",
+        "name": "Chili Cheese Toast",
+        "tier": 2,
+        "prep_time": 8,
+        "tags": [
+            "vegetarian",
+            "spicy"
+        ],
+        "ingredients": [
+            "Bread",
+            "Cheese",
+            "Green Chili"
+        ],
+        "instructions": "Toast bread. Add cheese and chopped chili. Melt."
+    },
+    {
+        "id": "32",
+        "name": "Garlic Bread (Tawa)",
+        "tier": 2,
+        "prep_time": 8,
+        "tags": [
+            "vegetarian",
+            "comfort"
+        ],
+        "ingredients": [
+            "Bread",
+            "Butter",
+            "Garlic (minced)"
+        ],
+        "instructions": "Mix garlic and butter. Spread on bread. Toast until crisp."
+    },
+    {
+        "id": "33",
+        "name": "Half Fry (Bullseye)",
+        "tier": 2,
+        "prep_time": 5,
+        "tags": [
+            "high-protein",
+            "keto"
+        ],
+        "ingredients": [
+            "1 Egg",
+            "Oil"
+        ],
+        "instructions": "Crack egg on pan. Don't flip. Cook until white is set."
+    },
+    {
+        "id": "34",
+        "name": "Cucumber Sandwich",
+        "tier": 2,
+        "prep_time": 5,
+        "tags": [
+            "vegetarian",
+            "fresh",
+            "light"
+        ],
+        "ingredients": [
+            "Bread",
+            "Butter",
+            "Cucumber",
+            "Pepper"
+        ],
+        "instructions": "Butter bread. Layer cucumber. Add salt/pepper."
+    },
+    {
+        "id": "35",
+        "name": "Tomato Onion Sandwich",
+        "tier": 2,
+        "prep_time": 5,
+        "tags": [
+            "vegetarian",
+            "fresh"
+        ],
+        "ingredients": [
+            "Bread",
+            "Tomato",
+            "Onion",
+            "Mayo"
+        ],
+        "instructions": "Slice veggies. Layer on bread with mayo."
+    },
+    {
+        "id": "36",
+        "name": "Egg Bhurji",
+        "tier": 2,
+        "prep_time": 10,
+        "tags": [
+            "high-protein",
+            "spicy"
+        ],
+        "ingredients": [
+            "2 Eggs",
+            "Onion",
+            "Chili",
+            "Masala"
+        ],
+        "instructions": "Sauté onion/chili. Scramble eggs in it with masala."
+    },
+    {
+        "id": "37",
+        "name": "Sweet French Toast",
+        "tier": 2,
+        "prep_time": 10,
+        "tags": [
+            "vegetarian",
+            "sweet",
+            "comfort"
+        ],
+        "ingredients": [
+            "Bread",
+            "Egg",
+            "Milk",
+            "Sugar"
+        ],
+        "instructions": "Dip bread in egg-milk-sugar mix. Pan fry."
+    },
+    {
+        "id": "38",
+        "name": "Savoury French Toast",
+        "tier": 2,
+        "prep_time": 10,
+        "tags": [
+            "vegetarian",
+            "savory"
+        ],
+        "ingredients": [
+            "Bread",
+            "Egg",
+            "Salt",
+            "Chili"
+        ],
+        "instructions": "Dip bread in egg-salt-chili mix. Pan fry."
+    },
+    {
+        "id": "39",
+        "name": "Aloo Sandwich (Leftover)",
+        "tier": 2,
+        "prep_time": 5,
+        "tags": [
+            "vegetarian",
+            "filling",
+            "leftover-hack"
+        ],
+        "ingredients": [
+            "Bread",
+            "Leftover Aloo Sabzi"
+        ],
+        "instructions": "Mash leftover sabzi. Stuff in bread. Toast."
+    },
+    {
+        "id": "40",
+        "name": "Paneer Raw (Salt/Pepper)",
+        "tier": 2,
+        "prep_time": 2,
+        "tags": [
+            "vegetarian",
+            "high-protein",
+            "keto"
+        ],
+        "ingredients": [
+            "Paneer cubes",
+            "Salt",
+            "Pepper"
+        ],
+        "instructions": "Cube raw paneer. Sprinkle salt/pepper. Eat."
+    },
+    {
+        "id": "41",
+        "name": "Banana Smoothie",
+        "tier": 2,
+        "prep_time": 5,
+        "tags": [
+            "vegetarian",
+            "drinkable",
+            "filling"
+        ],
+        "ingredients": [
+            "2 Bananas",
+            "Milk",
+            "Sugar/Honey"
+        ],
+        "instructions": "Blend everything. Drink while working."
+    },
+    {
+        "id": "42",
+        "name": "Cold Coffee",
+        "tier": 2,
+        "prep_time": 5,
+        "tags": [
+            "vegetarian",
+            "caffeine",
+            "drinkable"
+        ],
+        "ingredients": [
+            "Coffee",
+            "Milk",
+            "Sugar",
+            "Ice"
+        ],
+        "instructions": "Shake/blend coffee, sugar, milk."
+    },
+    {
+        "id": "43",
+        "name": "Besan Chilla (Veg Omelette)",
+        "tier": 2,
+        "prep_time": 12,
+        "tags": [
+            "vegan",
+            "high-protein"
+        ],
+        "ingredients": [
+            "Besan (Gram flour)",
+            "Water",
+            "Spices"
+        ],
+        "instructions": "Make batter. Pour like crepe on pan. Cook both sides."
+    },
+    {
+        "id": "44",
+        "name": "Avocado Toast (Local)",
+        "tier": 2,
+        "prep_time": 5,
+        "tags": [
+            "vegan",
+            "healthy"
+        ],
+        "ingredients": [
+            "Bread",
+            "Avocado/Butterfruit",
+            "Salt"
+        ],
+        "instructions": "Mash fruit on toast. Add salt and lemon."
+    },
+    {
+        "id": "45",
+        "name": "Sprouts Salad",
+        "tier": 2,
+        "prep_time": 5,
+        "tags": [
+            "vegan",
+            "high-protein",
+            "healthy"
+        ],
+        "ingredients": [
+            "Sprouts",
+            "Lemon",
+            "Onion",
+            "Salt"
+        ],
+        "instructions": "Mix raw sprouts with chopped onion, lemon, salt."
+    },
+    {
+        "id": "46",
+        "name": "Bhel Puri (Homemade)",
+        "tier": 2,
+        "prep_time": 8,
+        "tags": [
+            "vegan",
+            "snack"
+        ],
+        "ingredients": [
+            "Puffed Rice",
+            "Sev",
+            "Onion",
+            "Chutney"
+        ],
+        "instructions": "Mix everything in a bowl immediately before eating."
+    },
+    {
+        "id": "47",
+        "name": "Bread Upma",
+        "tier": 2,
+        "prep_time": 12,
+        "tags": [
+            "vegetarian",
+            "breakfast"
+        ],
+        "ingredients": [
+            "Bread pieces",
+            "Onion",
+            "Mustard seeds"
+        ],
+        "instructions": "Tadka of mustard/onion. Toss bread pieces in it."
+    },
+    {
+        "id": "48",
+        "name": "Curd Rice (Thayir Sadam)",
+        "tier": 2,
+        "prep_time": 5,
+        "tags": [
+            "vegetarian",
+            "comfort",
+            "cooling"
+        ],
+        "ingredients": [
+            "Cooked Rice",
+            "Curd",
+            "Salt"
+        ],
+        "instructions": "Mix rice and curd. Add pickle on side."
+    },
+    {
+        "id": "49",
+        "name": "Roti Roll (Jam/Butter)",
+        "tier": 2,
+        "prep_time": 2,
+        "tags": [
+            "vegetarian",
+            "childhood"
+        ],
+        "ingredients": [
+            "Leftover Roti",
+            "Jam/Butter"
+        ],
+        "instructions": "Spread jam/butter on cold roti. Roll. Eat."
+    },
+    {
+        "id": "50",
+        "name": "Papad (Microwave)",
+        "tier": 2,
+        "prep_time": 1,
+        "tags": [
+            "vegan",
+            "crunchy"
+        ],
+        "ingredients": [
+            "Papad"
+        ],
+        "instructions": "Microwave for 45 secs. Crunch."
+    },
+    {
+        "id": "51",
+        "name": "Khichdi (The Healer)",
+        "tier": 3,
+        "prep_time": 25,
+        "servings": 2,
+        "tags": [
+            "vegetarian",
+            "comfort",
+            "complete-meal"
+        ],
+        "ingredients": [
+            "1/2 cup rice",
+            "1/4 cup moong dal (yellow)",
+            "3 cups water",
+            "1/2 tsp turmeric powder",
+            "1/2 tsp salt",
+            "1 tbsp ghee",
+            "1/2 tsp cumin seeds",
+            "2-3 whole black peppercorns (optional)"
+        ],
+        "instructions": "1. Wash rice and dal together 2-3 times until water runs clear.\n2. Soak in water for 10 minutes (optional but helps cooking).\n3. In a pressure cooker, heat ghee on medium flame.\n4. Add cumin seeds, let them splutter.\n5. Add drained rice-dal, turmeric, salt, and 3 cups water.\n6. Stir once and close the lid.\n7. Cook for 3 whistles on medium heat.\n8. Let pressure release naturally (10 mins).\n9. Open, mash gently with the back of a ladle.\n10. Add more ghee on top and serve hot.",
+        "tips": "Perfect sick-day food. Add 1/4 tsp ginger paste for extra comfort. Serve with papad and pickle. For porridge consistency, add more water."
+    },
+    {
+        "id": "52",
+        "name": "Egg Fried Rice",
+        "tier": 3,
+        "prep_time": 20,
+        "tags": [
+            "high-protein",
+            "leftover-hack"
+        ],
+        "ingredients": [
+            "Cooked Rice",
+            "2 Eggs",
+            "Soy Sauce"
+        ],
+        "instructions": "Scramble eggs. Add rice and sauce. Toss on high heat."
+    },
+    {
+        "id": "53",
+        "name": "Aloo Poha",
+        "tier": 3,
+        "prep_time": 15,
+        "tags": [
+            "vegan",
+            "breakfast"
+        ],
+        "ingredients": [
+            "Flattened Rice (Poha)",
+            "Potato",
+            "Onion",
+            "Peanuts"
+        ],
+        "instructions": "Wash poha. Sauté potato/onion/peanuts. Mix."
+    },
+    {
+        "id": "54",
+        "name": "Upma",
+        "tier": 3,
+        "prep_time": 15,
+        "tags": [
+            "vegetarian",
+            "breakfast"
+        ],
+        "ingredients": [
+            "Rava (Semolina)",
+            "Water",
+            "Onion"
+        ],
+        "instructions": "Roast rava. Boil water with tadka. Mix until thick."
+    },
+    {
+        "id": "55",
+        "name": "Lemon Rice",
+        "tier": 3,
+        "prep_time": 15,
+        "tags": [
+            "vegan",
+            "tangy",
+            "leftover-hack"
+        ],
+        "ingredients": [
+            "Cooked Rice",
+            "Lemon",
+            "Turmeric",
+            "Peanuts"
+        ],
+        "instructions": "Fry peanuts/turmeric. Add rice. Squeeze lemon."
+    },
+    {
+        "id": "56",
+        "name": "Jeera Rice & Dal",
+        "tier": 3,
+        "prep_time": 30,
+        "tags": [
+            "vegetarian",
+            "classic"
+        ],
+        "ingredients": [
+            "Rice",
+            "Jeera",
+            "Dal"
+        ],
+        "instructions": "Cook dal. Make rice with jeera tadka."
+    },
+    {
+        "id": "57",
+        "name": "Masala Macaroni",
+        "tier": 3,
+        "prep_time": 20,
+        "tags": [
+            "vegetarian",
+            "pasta"
+        ],
+        "ingredients": [
+            "Macaroni",
+            "Onion",
+            "Tomato",
+            "Masala"
+        ],
+        "instructions": "Boil pasta. Make onion-tomato masala. Mix."
+    },
+    {
+        "id": "58",
+        "name": "White Sauce Pasta (Jugaad)",
+        "tier": 3,
+        "prep_time": 20,
+        "tags": [
+            "vegetarian",
+            "creamy"
+        ],
+        "ingredients": [
+            "Pasta",
+            "Milk",
+            "Butter",
+            "Maida/Flour"
+        ],
+        "instructions": "Make roux (butter+flour). Add milk. Add boiled pasta."
+    },
+    {
+        "id": "59",
+        "name": "Egg Curry (Simple)",
+        "tier": 3,
+        "prep_time": 25,
+        "tags": [
+            "high-protein",
+            "dinner"
+        ],
+        "ingredients": [
+            "Boiled Eggs",
+            "Onion",
+            "Tomato",
+            "Spices"
+        ],
+        "instructions": "Make gravy with onion/tomato. Add halved boiled eggs."
+    },
+    {
+        "id": "60",
+        "name": "Sabudana Khichdi",
+        "tier": 3,
+        "prep_time": 20,
+        "tags": [
+            "vegan",
+            "fasting"
+        ],
+        "ingredients": [
+            "Soaked Sabudana",
+            "Peanuts",
+            "Potato"
+        ],
+        "instructions": "Sauté potato. Add sabudana and crushed peanuts."
+    },
+    {
+        "id": "61",
+        "name": "Dalia (Broken Wheat)",
+        "tier": 3,
+        "prep_time": 20,
+        "tags": [
+            "vegetarian",
+            "healthy",
+            "fiber"
+        ],
+        "ingredients": [
+            "Dalia",
+            "Vegetables",
+            "Water"
+        ],
+        "instructions": "Cook like khichdi with veggies. Very filling."
+    },
+    {
+        "id": "62",
+        "name": "Tomato Rice",
+        "tier": 3,
+        "prep_time": 20,
+        "tags": [
+            "vegan",
+            "tangy"
+        ],
+        "ingredients": [
+            "Rice",
+            "Tomatoes",
+            "Spices"
+        ],
+        "instructions": "Make spicy tomato mash. Mix in cooked rice."
+    },
+    {
+        "id": "63",
+        "name": "Aloo Fry & Paratha",
+        "tier": 3,
+        "prep_time": 25,
+        "tags": [
+            "vegetarian",
+            "dinner"
+        ],
+        "ingredients": [
+            "Potatoes",
+            "Frozen Paratha/Roti"
+        ],
+        "instructions": "Fry sliced potatoes with spices. Eat with paratha."
+    },
+    {
+        "id": "64",
+        "name": "Paneer Bhurji",
+        "tier": 3,
+        "prep_time": 15,
+        "tags": [
+            "vegetarian",
+            "high-protein"
+        ],
+        "ingredients": [
+            "Paneer",
+            "Onion",
+            "Tomato"
+        ],
+        "instructions": "Crumble paneer. Cook with onion-tomato masala."
+    },
+    {
+        "id": "65",
+        "name": "Soya Chunks Fry",
+        "tier": 3,
+        "prep_time": 20,
+        "tags": [
+            "vegan",
+            "high-protein"
+        ],
+        "ingredients": [
+            "Soya Chunks",
+            "Onion",
+            "Sauces"
+        ],
+        "instructions": "Boil chunks. Squeeze. Stir fry with sauces."
+    },
+    {
+        "id": "66",
+        "name": "Vegetable Stir Fry",
+        "tier": 3,
+        "prep_time": 15,
+        "tags": [
+            "vegan",
+            "healthy",
+            "low-carb"
+        ],
+        "ingredients": [
+            "Mix Veggies",
+            "Soy Sauce",
+            "Pepper"
+        ],
+        "instructions": "High heat fry all veggies. Add soy sauce."
+    },
+    {
+        "id": "67",
+        "name": "Sweet Porridge",
+        "tier": 3,
+        "prep_time": 15,
+        "tags": [
+            "vegetarian",
+            "sweet"
+        ],
+        "ingredients": [
+            "Dalia/Oats",
+            "Milk",
+            "Sugar"
+        ],
+        "instructions": "Cook grain in milk until soft. Add sugar."
+    },
+    {
+        "id": "68",
+        "name": "Vermicelli Upma (Semiya)",
+        "tier": 3,
+        "prep_time": 15,
+        "tags": [
+            "vegetarian",
+            "breakfast"
+        ],
+        "ingredients": [
+            "Vermicelli",
+            "Water",
+            "Mustard seeds"
+        ],
+        "instructions": "Roast semiya. Boil water. Cook with tadka."
+    },
+    {
+        "id": "69",
+        "name": "Fried Idli",
+        "tier": 3,
+        "prep_time": 10,
+        "tags": [
+            "vegetarian",
+            "leftover-hack"
+        ],
+        "ingredients": [
+            "Leftover Idli",
+            "Gunpowder/Masala"
+        ],
+        "instructions": "Cut idli into cubes. Fry in oil with masala."
+    },
+    {
+        "id": "70",
+        "name": "Chana Masala (Quick)",
+        "tier": 3,
+        "prep_time": 20,
+        "tags": [
+            "vegan",
+            "high-protein"
+        ],
+        "ingredients": [
+            "Canned/Boiled Chana",
+            "Onion",
+            "Tomato"
+        ],
+        "instructions": "Quick gravy with spices. Add chana."
+    },
+    {
+        "id": "71",
+        "name": "Peanut Butter Banana Toast",
+        "tier": 2,
+        "prep_time": 5,
+        "tags": [
+            "vegetarian",
+            "energy"
+        ],
+        "ingredients": [
+            "Bread",
+            "PB",
+            "Banana"
+        ],
+        "instructions": "Toast. PB. Banana slices. Best pre-study meal."
+    },
+    {
+        "id": "72",
+        "name": "Honey Lemon Water",
+        "tier": 1,
+        "prep_time": 2,
+        "tags": [
+            "vegan",
+            "detox",
+            "morning"
+        ],
+        "ingredients": [
+            "Warm Water",
+            "Honey",
+            "Lemon"
+        ],
+        "instructions": "Mix. Drink warm."
+    },
+    {
+        "id": "73",
+        "name": "Green Tea",
+        "tier": 1,
+        "prep_time": 3,
+        "tags": [
+            "vegan",
+            "antioxidant"
+        ],
+        "ingredients": [
+            "Green Tea Bag",
+            "Hot Water"
+        ],
+        "instructions": "Dip for 2 mins. Don't add milk."
+    },
+    {
+        "id": "74",
+        "name": "Boiled Corn (Cup Corn)",
+        "tier": 2,
+        "prep_time": 8,
+        "tags": [
+            "vegan",
+            "fiber"
+        ],
+        "ingredients": [
+            "Sweet Corn",
+            "Butter",
+            "Lemon"
+        ],
+        "instructions": "Boil corn. Mix butter and lemon."
+    },
+    {
+        "id": "75",
+        "name": "Oats Omelette",
+        "tier": 2,
+        "prep_time": 12,
+        "tags": [
+            "high-protein",
+            "fiber"
+        ],
+        "ingredients": [
+            "Oats (powdered)",
+            "2 Eggs",
+            "Veggies"
+        ],
+        "instructions": "Mix oats into egg. Make omelette. Very filling."
+    },
+    {
+        "id": "76",
+        "name": "Mushroom Stir Fry",
+        "tier": 3,
+        "prep_time": 15,
+        "tags": [
+            "vegan",
+            "savory"
+        ],
+        "ingredients": [
+            "Mushrooms",
+            "Garlic",
+            "Butter"
+        ],
+        "instructions": "High heat fry mushrooms in butter/garlic."
+    },
+    {
+        "id": "77",
+        "name": "Lassi",
+        "tier": 1,
+        "prep_time": 3,
+        "tags": [
+            "vegetarian",
+            "sweet",
+            "drinkable"
+        ],
+        "ingredients": [
+            "Curd",
+            "Sugar",
+            "Water"
+        ],
+        "instructions": "Blend curd and sugar. Sweet and cooling."
+    },
+    {
+        "id": "78",
+        "name": "Cheese Maggi",
+        "tier": 2,
+        "prep_time": 7,
+        "tags": [
+            "vegetarian",
+            "indulgent"
+        ],
+        "ingredients": [
+            "Maggi",
+            "Cheese Slice"
+        ],
+        "instructions": "Cook Maggi. Melt cheese on top at the end."
+    },
+    {
+        "id": "79",
+        "name": "Roti Pizza",
+        "tier": 2,
+        "prep_time": 10,
+        "tags": [
+            "vegetarian",
+            "leftover-hack"
+        ],
+        "ingredients": [
+            "Roti",
+            "Ketchup",
+            "Cheese",
+            "Veggies"
+        ],
+        "instructions": "Use roti as base. Add toppings/cheese. Pan fry covered."
+    },
+    {
+        "id": "80",
+        "name": "Milk & Biscuit Mush",
+        "tier": 1,
+        "prep_time": 3,
+        "tags": [
+            "vegetarian",
+            "comfort",
+            "childhood"
+        ],
+        "ingredients": [
+            "Biscuits",
+            "Hot Milk"
+        ],
+        "instructions": "Crush biscuits in cup. Add milk. Eat with spoon."
+    },
+    {
+        "id": "81",
+        "name": "Instant Soup",
+        "tier": 1,
+        "prep_time": 3,
+        "tags": [
+            "vegetarian",
+            "warm"
+        ],
+        "ingredients": [
+            "Knorr/Maggi Soup Packet"
+        ],
+        "instructions": "Boil water. Stir powder. Drink."
+    },
+    {
+        "id": "82",
+        "name": "Cucumber Raita",
+        "tier": 2,
+        "prep_time": 5,
+        "tags": [
+            "vegetarian",
+            "cooling"
+        ],
+        "ingredients": [
+            "Curd",
+            "Grated Cucumber",
+            "Spice"
+        ],
+        "instructions": "Mix cucumber in curd. Add cumin powder."
+    },
+    {
+        "id": "83",
+        "name": "Fruit Salad",
+        "tier": 2,
+        "prep_time": 8,
+        "tags": [
+            "vegan",
+            "vitamins"
+        ],
+        "ingredients": [
+            "Any 3 fruits",
+            "Chaat Masala"
+        ],
+        "instructions": "Chop fruits. Sprinkle masala."
+    },
+    {
+        "id": "84",
+        "name": "Nutella Toast",
+        "tier": 2,
+        "prep_time": 4,
+        "tags": [
+            "vegetarian",
+            "sweet",
+            "treat"
+        ],
+        "ingredients": [
+            "Bread",
+            "Nutella"
+        ],
+        "instructions": "Toast bread. Spread joy."
+    },
+    {
+        "id": "85",
+        "name": "Plain Rice & Ghee",
+        "tier": 2,
+        "prep_time": 15,
+        "tags": [
+            "vegetarian",
+            "extreme-comfort"
+        ],
+        "ingredients": [
+            "Rice",
+            "Ghee",
+            "Salt"
+        ],
+        "instructions": "Cook rice. Add spoon of ghee and salt. done."
+    },
+    {
+        "id": "86",
+        "name": "Egg Mayo Sandwich",
+        "tier": 2,
+        "prep_time": 8,
+        "tags": [
+            "high-protein",
+            "creamy"
+        ],
+        "ingredients": [
+            "Boiled Egg",
+            "Mayo",
+            "Bread"
+        ],
+        "instructions": "Mash boiled egg with mayo. Spread on bread."
+    },
+    {
+        "id": "87",
+        "name": "Aloo Jeera (Dry)",
+        "tier": 3,
+        "prep_time": 20,
+        "tags": [
+            "vegan",
+            "classic"
+        ],
+        "ingredients": [
+            "Boiled Potato",
+            "Cumin",
+            "Turmeric"
+        ],
+        "instructions": "Cube potato. Fry in oil with cumin seeds."
+    },
+    {
+        "id": "88",
+        "name": "Soy Milk",
+        "tier": 1,
+        "prep_time": 1,
+        "tags": [
+            "vegan",
+            "dairy-free"
+        ],
+        "ingredients": [
+            "Soy Milk Carton"
+        ],
+        "instructions": "Pour and drink. Good shelf life."
+    },
+    {
+        "id": "89",
+        "name": "Thukpa (Instant)",
+        "tier": 2,
+        "prep_time": 10,
+        "tags": [
+            "non-veg",
+            "soupy",
+            "local"
+        ],
+        "ingredients": [
+            "Noodles",
+            "Veggies",
+            "Stock"
+        ],
+        "instructions": "Make soupy noodles with extra water and veggies."
+    },
+    {
+        "id": "90",
+        "name": "Rice & Pickle",
+        "tier": 2,
+        "prep_time": 1,
+        "tags": [
+            "vegan",
+            "survival"
+        ],
+        "ingredients": [
+            "Cooked Rice",
+            "Mango Pickle"
+        ],
+        "instructions": "When you have absolutely nothing else."
+    },
+    {
+        "id": "91",
+        "name": "Chickpea Salad",
+        "tier": 2,
+        "prep_time": 5,
+        "tags": [
+            "vegan",
+            "high-protein"
+        ],
+        "ingredients": [
+            "Boiled Chana",
+            "Onion",
+            "Tomato",
+            "Lemon"
+        ],
+        "instructions": "Toss ingredients together. No cook."
+    },
+    {
+        "id": "92",
+        "name": "Bread Pizza (Microwave)",
+        "tier": 2,
+        "prep_time": 3,
+        "tags": [
+            "vegetarian",
+            "fast"
+        ],
+        "ingredients": [
+            "Bread",
+            "Cheese",
+            "Sauce"
+        ],
+        "instructions": "Microwave bread with toppings for 1 min."
+    },
+    {
+        "id": "93",
+        "name": "Flattened Rice Milk (Poha Milk)",
+        "tier": 2,
+        "prep_time": 3,
+        "tags": [
+            "vegetarian",
+            "breakfast"
+        ],
+        "ingredients": [
+            "Poha",
+            "Milk",
+            "Sugar"
+        ],
+        "instructions": "Wash Poha. Add to hot milk/sugar. Soft mush."
+    },
+    {
+        "id": "94",
+        "name": "Stuffed Omelette",
+        "tier": 2,
+        "prep_time": 10,
+        "tags": [
+            "high-protein",
+            "keto"
+        ],
+        "ingredients": [
+            "2 Eggs",
+            "Spinach",
+            "Cheese"
+        ],
+        "instructions": "Fill omelette with spinach/cheese before folding."
+    },
+    {
+        "id": "95",
+        "name": "Masala Papad Salad",
+        "tier": 2,
+        "prep_time": 5,
+        "tags": [
+            "vegan",
+            "starter"
+        ],
+        "ingredients": [
+            "Roasted Papad",
+            "Onion",
+            "Tomato"
+        ],
+        "instructions": "Top papad with chopped salad."
+    },
+    {
+        "id": "96",
+        "name": "Ghee Roast Dosa (Ready Batter)",
+        "tier": 2,
+        "prep_time": 8,
+        "tags": [
+            "vegetarian",
+            "crispy"
+        ],
+        "ingredients": [
+            "Idli/Dosa Batter",
+            "Ghee"
+        ],
+        "instructions": "Spread batter. Add ghee. Roast till brown."
+    },
+    {
+        "id": "97",
+        "name": "Methi Thepla (Frozen)",
+        "tier": 2,
+        "prep_time": 4,
+        "tags": [
+            "vegetarian",
+            "travel-food"
+        ],
+        "ingredients": [
+            "Frozen Thepla",
+            "Pickle"
+        ],
+        "instructions": "Heat on tawa. Eat with pickle."
+    },
+    {
+        "id": "98",
+        "name": "Egg Toast (French Toast Savory)",
+        "tier": 2,
+        "prep_time": 8,
+        "tags": [
+            "high-protein",
+            "classic"
+        ],
+        "ingredients": [
+            "Bread",
+            "Egg",
+            "Chili"
+        ],
+        "instructions": "The classic 'dim-paura'."
+    },
+    {
+        "id": "99",
+        "name": "Orange/Kinnow",
+        "tier": 1,
+        "prep_time": 2,
+        "tags": [
+            "vegan",
+            "vitamin-c"
+        ],
+        "ingredients": [
+            "Orange"
+        ],
+        "instructions": "Peeling is therapeutic. Eating is refreshing."
+    },
+    {
+        "id": "100",
+        "name": "Warm Water",
+        "tier": 1,
+        "prep_time": 1,
+        "tags": [
+            "vegan",
+            "hydration",
+            "grounding"
+        ],
+        "ingredients": [
+            "Water"
+        ],
+        "instructions": "Just warm water. Calms the anxiety. Start here."
+    },
+    {
+        "id": "101",
+        "name": "Mug Cake (2-Min Brownie)",
+        "tier": 2,
+        "prep_time": 2,
+        "tags": [
+            "vegetarian",
+            "sweet",
+            "microwave",
+            "late-night"
+        ],
+        "ingredients": [
+            "3 tbsp Flour",
+            "2 tbsp Sugar",
+            "1 tbsp Cocoa",
+            "2 tbsp Milk",
+            "1 tbsp Oil"
+        ],
+        "instructions": "Mix everything in a coffee mug. Microwave for 90 seconds. Eat warm."
+    },
+    {
+        "id": "102",
+        "name": "Masala Coke (Jeera Soda)",
+        "tier": 1,
+        "prep_time": 1,
+        "tags": [
+            "vegan",
+            "drinkable",
+            "digestion"
+        ],
+        "ingredients": [
+            "Cola/Soda",
+            "Chaat Masala",
+            "Lemon Juice",
+            "Black Salt"
+        ],
+        "instructions": "Add pinch of masala and lemon to fizzy drink. Wakes you up."
+    },
+    {
+        "id": "103",
+        "name": "Roti Noodles",
+        "tier": 3,
+        "prep_time": 15,
+        "tags": [
+            "vegetarian",
+            "leftover-hack",
+            "dinner"
+        ],
+        "ingredients": [
+            "Leftover Roti",
+            "Onion",
+            "Capsicum",
+            "Soy Sauce",
+            "Ketchup"
+        ],
+        "instructions": "Cut roti into thin strips. Stir fry veggies. Add roti strips and sauces like chowmein."
+    },
+    {
+        "id": "104",
+        "name": "Banana Pancakes (No Flour)",
+        "tier": 2,
+        "prep_time": 10,
+        "tags": [
+            "vegetarian",
+            "healthy",
+            "gluten-free"
+        ],
+        "ingredients": [
+            "1 Banana",
+            "2 Eggs"
+        ],
+        "instructions": "Mash banana completely. Whisk in eggs. Pour on pan like small pancakes."
+    },
+    {
+        "id": "105",
+        "name": "Curd & Sugar (Instant Dessert)",
+        "tier": 1,
+        "prep_time": 1,
+        "tags": [
+            "vegetarian",
+            "sweet",
+            "comfort"
+        ],
+        "ingredients": [
+            "Bowl of Curd",
+            "2 spoons Sugar"
+        ],
+        "instructions": "Mix well until sugar dissolves. Poor man's Mishti Doi."
+    },
+    {
+        "id": "106",
+        "name": "Shikanji (Indian Lemonade)",
+        "tier": 1,
+        "prep_time": 5,
+        "tags": [
+            "vegan",
+            "hydration",
+            "cooling"
+        ],
+        "ingredients": [
+            "Water",
+            "Lemon",
+            "Sugar",
+            "Black Salt",
+            "Cumin Powder"
+        ],
+        "instructions": "Mix everything. The black salt is key for electrolyte balance."
+    },
+    {
+        "id": "107",
+        "name": "Boiled Sweet Potato (Shakarkandi)",
+        "tier": 2,
+        "prep_time": 15,
+        "tags": [
+            "vegan",
+            "healthy",
+            "energy"
+        ],
+        "ingredients": [
+            "Sweet Potato",
+            "Lemon",
+            "Chaat Masala"
+        ],
+        "instructions": "Boil until soft. Peel and cube. Add masala and lemon juice."
+    },
+    {
+        "id": "108",
+        "name": "Egg Drop Soup",
+        "tier": 2,
+        "prep_time": 5,
+        "tags": [
+            "high-protein",
+            "warm",
+            "liquid"
+        ],
+        "ingredients": [
+            "Water/Stock",
+            "1 Egg",
+            "Soy Sauce",
+            "Pepper"
+        ],
+        "instructions": "Boil water with soy sauce. Slowly pour whisked egg while stirring to create ribbons."
+    },
+    {
+        "id": "109",
+        "name": "Bread Poha",
+        "tier": 2,
+        "prep_time": 10,
+        "tags": [
+            "vegetarian",
+            "breakfast"
+        ],
+        "ingredients": [
+            "Bread cubes",
+            "Onion",
+            "Tomato",
+            "Mustard Seeds",
+            "Turmeric"
+        ],
+        "instructions": "Make tadka with onion/spices. Add bread cubes. Sprinkle water to soften."
+    },
+    {
+        "id": "110",
+        "name": "Peanut Chaat (Chakhna Style)",
+        "tier": 2,
+        "prep_time": 5,
+        "tags": [
+            "vegan",
+            "high-protein",
+            "spicy"
+        ],
+        "ingredients": [
+            "Roasted Peanuts",
+            "Chopped Onion",
+            "Tomato",
+            "Green Chili",
+            "Lemon"
+        ],
+        "instructions": "Mix everything in a bowl. Eat with spoon."
+    },
+    {
+        "id": "111",
+        "name": "Rice Kheer (Leftover Hack)",
+        "tier": 3,
+        "prep_time": 15,
+        "tags": [
+            "vegetarian",
+            "sweet",
+            "leftover-hack"
+        ],
+        "ingredients": [
+            "Cooked Rice",
+            "Milk",
+            "Sugar",
+            "Cardamom"
+        ],
+        "instructions": "Boil cooked rice in milk until thick. Add sugar and elaichi."
+    },
+    {
+        "id": "112",
+        "name": "Hot Chocolate (Desi)",
+        "tier": 2,
+        "prep_time": 5,
+        "tags": [
+            "vegetarian",
+            "sweet",
+            "warm"
+        ],
+        "ingredients": [
+            "Milk",
+            "Cocoa Powder/Chocolate bar",
+            "Sugar"
+        ],
+        "instructions": "Heat milk. Whisk in cocoa and sugar. Good for rainy days."
+    },
+    {
+        "id": "113",
+        "name": "Bombay Veg Sandwich",
+        "tier": 2,
+        "prep_time": 10,
+        "tags": [
+            "vegetarian",
+            "fresh"
+        ],
+        "ingredients": [
+            "Bread",
+            "Butter",
+            "Green Chutney",
+            "Cucumber",
+            "Tomato",
+            "Boiled Potato"
+        ],
+        "instructions": "Butter bread, apply chutney. Layer thin slices of all veg. Add chaat masala."
+    },
+    {
+        "id": "114",
+        "name": "Popcorn (Stovetop)",
+        "tier": 2,
+        "prep_time": 5,
+        "tags": [
+            "vegan",
+            "snack",
+            "light"
+        ],
+        "ingredients": [
+            "Corn Kernels",
+            "Oil/Butter",
+            "Salt",
+            "Turmeric"
+        ],
+        "instructions": "Heat oil/turmeric in cooker. Add corn. Cover (remove whistle). Shake until popping stops."
+    },
+    {
+        "id": "115",
+        "name": "Suji Halwa (Sheera)",
+        "tier": 3,
+        "prep_time": 15,
+        "tags": [
+            "vegetarian",
+            "sweet",
+            "filling"
+        ],
+        "ingredients": [
+            "Suji (Semolina)",
+            "Ghee",
+            "Sugar",
+            "Water"
+        ],
+        "instructions": "Roast suji in ghee until brown. Add hot water and sugar carefully. Stir until thick."
+    },
+    {
+        "id": "116",
+        "name": "Chili Cheese Toast (Tawa)",
+        "tier": 2,
+        "prep_time": 8,
+        "tags": [
+            "vegetarian",
+            "spicy"
+        ],
+        "ingredients": [
+            "Bread",
+            "Cheese Slice",
+            "Green Chili",
+            "Capsicum (Optional)"
+        ],
+        "instructions": "Toast bread one side. Flip. Add cheese/chili on cooked side. Cover tawa to melt."
+    },
+    {
+        "id": "117",
+        "name": "Gud (Jaggery) & Ghee Roti",
+        "tier": 1,
+        "prep_time": 2,
+        "tags": [
+            "vegetarian",
+            "sweet",
+            "iron-rich"
+        ],
+        "ingredients": [
+            "Roti",
+            "Ghee",
+            "Jaggery (Gud)"
+        ],
+        "instructions": "Crumble roti. Mix with warm ghee and crushed jaggery. Roll into a laddoo."
+    },
+    {
+        "id": "118",
+        "name": "Onion Pakoda (Shallow Fry)",
+        "tier": 3,
+        "prep_time": 15,
+        "tags": [
+            "vegan",
+            "crunchy",
+            "monsoon"
+        ],
+        "ingredients": [
+            "Sliced Onion",
+            "Besan",
+            "Salt",
+            "Chili",
+            "Little Water"
+        ],
+        "instructions": "Mix onion and spices. Coat with besan (stiff batter). Pan fry flat patties in little oil."
+    },
+    {
+        "id": "119",
+        "name": "Boiled Peanuts",
+        "tier": 3,
+        "prep_time": 20,
+        "tags": [
+            "vegan",
+            "high-protein",
+            "healthy"
+        ],
+        "ingredients": [
+            "Raw Peanuts (in shell or without)",
+            "Salt",
+            "Water"
+        ],
+        "instructions": "Boil in pressure cooker with salt water for 2-3 whistles. Soft and salty."
+    },
+    {
+        "id": "120",
+        "name": "Golden Milk (Haldi Doodh)",
+        "tier": 1,
+        "prep_time": 5,
+        "tags": [
+            "vegetarian",
+            "immunity",
+            "sleep"
+        ],
+        "ingredients": [
+            "Milk",
+            "Turmeric Powder",
+            "Pepper",
+            "Honey"
+        ],
+        "instructions": "Warm the milk. Whisk in turmeric and pepper. Drink before sleeping."
+    }
+]

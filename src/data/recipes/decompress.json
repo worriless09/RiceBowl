@@ -1,0 +1,367 @@
+[
+    {
+        "id": "decompress_1",
+        "name": "Khichdi",
+        "description": "Ultimate comfort food - easy to digest, soul-soothing",
+        "time_tier": 30,
+        "prep_time_minutes": 5,
+        "cook_time_minutes": 25,
+        "is_rice_friendly": true,
+        "is_wet": true,
+        "is_dry": false,
+        "is_deskside": false,
+        "is_grab_and_go": false,
+        "is_comfort_food": true,
+        "is_premium": false,
+        "is_vegetarian": true,
+        "is_vegan": true,
+        "ingredients": [
+            {
+                "name": "Rice",
+                "quantity": 0.5,
+                "unit": "cup",
+                "is_optional": false,
+                "substitutes": []
+            },
+            {
+                "name": "Moong Dal",
+                "quantity": 0.25,
+                "unit": "cup",
+                "is_optional": false,
+                "substitutes": [
+                    "Toor Dal"
+                ]
+            },
+            {
+                "name": "Ghee",
+                "quantity": 1,
+                "unit": "tbsp",
+                "is_optional": true,
+                "substitutes": [
+                    "Oil"
+                ]
+            },
+            {
+                "name": "Cumin Seeds",
+                "quantity": 0.5,
+                "unit": "tsp",
+                "is_optional": false,
+                "substitutes": []
+            },
+            {
+                "name": "Turmeric",
+                "quantity": 0.5,
+                "unit": "tsp",
+                "is_optional": false,
+                "substitutes": []
+            },
+            {
+                "name": "Salt",
+                "quantity": 1,
+                "unit": "tsp",
+                "is_optional": false,
+                "substitutes": []
+            }
+        ],
+        "steps": [
+            "Wash rice and dal together",
+            "In pressure cooker, heat ghee and add cumin",
+            "Add rice, dal, turmeric, salt and 3 cups water",
+            "Pressure cook for 3-4 whistles",
+            "Mash lightly and serve with pickle"
+        ],
+        "requires_soaking": false,
+        "soak_ingredient": null,
+        "soak_hours": 0,
+        "cuisine": "indian",
+        "calories_approx": 350,
+        "protein_approx": 12
+    },
+    {
+        "id": "decompress_2",
+        "name": "Egg Fried Rice",
+        "description": "Leftover rice transformer - quick and satisfying",
+        "time_tier": 30,
+        "prep_time_minutes": 5,
+        "cook_time_minutes": 15,
+        "is_rice_friendly": true,
+        "is_wet": false,
+        "is_dry": true,
+        "is_deskside": false,
+        "is_grab_and_go": false,
+        "is_comfort_food": true,
+        "is_premium": false,
+        "is_vegetarian": true,
+        "is_vegan": false,
+        "ingredients": [
+            {
+                "name": "Cooked Rice",
+                "quantity": 2,
+                "unit": "cups",
+                "is_optional": false,
+                "substitutes": []
+            },
+            {
+                "name": "Eggs",
+                "quantity": 2,
+                "unit": "pieces",
+                "is_optional": false,
+                "substitutes": [
+                    "Tofu"
+                ]
+            },
+            {
+                "name": "Soy Sauce",
+                "quantity": 2,
+                "unit": "tbsp",
+                "is_optional": false,
+                "substitutes": []
+            },
+            {
+                "name": "Spring Onion",
+                "quantity": 2,
+                "unit": "stalks",
+                "is_optional": true,
+                "substitutes": [
+                    "Onion"
+                ]
+            },
+            {
+                "name": "Oil",
+                "quantity": 2,
+                "unit": "tbsp",
+                "is_optional": false,
+                "substitutes": []
+            }
+        ],
+        "steps": [
+            "Heat oil in wok on high heat",
+            "Scramble eggs and set aside",
+            "Add rice and stir-fry 3-4 min",
+            "Add soy sauce and mix well",
+            "Add eggs back, garnish with spring onion"
+        ],
+        "requires_soaking": false,
+        "soak_ingredient": null,
+        "soak_hours": 0,
+        "cuisine": "asian",
+        "calories_approx": 450,
+        "protein_approx": 15
+    },
+    {
+        "id": "decompress_3",
+        "name": "Dal Tadka",
+        "description": "Protein-rich, pairs perfectly with rice",
+        "time_tier": 30,
+        "prep_time_minutes": 5,
+        "cook_time_minutes": 25,
+        "is_rice_friendly": true,
+        "is_wet": true,
+        "is_dry": false,
+        "is_deskside": false,
+        "is_grab_and_go": false,
+        "is_comfort_food": true,
+        "is_premium": false,
+        "is_vegetarian": true,
+        "is_vegan": true,
+        "ingredients": [
+            {
+                "name": "Toor Dal",
+                "quantity": 1,
+                "unit": "cup",
+                "is_optional": false,
+                "substitutes": [
+                    "Moong Dal"
+                ]
+            },
+            {
+                "name": "Onion",
+                "quantity": 1,
+                "unit": "piece",
+                "is_optional": false,
+                "substitutes": []
+            },
+            {
+                "name": "Tomato",
+                "quantity": 1,
+                "unit": "piece",
+                "is_optional": false,
+                "substitutes": []
+            },
+            {
+                "name": "Garlic",
+                "quantity": 4,
+                "unit": "cloves",
+                "is_optional": false,
+                "substitutes": []
+            },
+            {
+                "name": "Cumin Seeds",
+                "quantity": 1,
+                "unit": "tsp",
+                "is_optional": false,
+                "substitutes": []
+            },
+            {
+                "name": "Ghee",
+                "quantity": 2,
+                "unit": "tbsp",
+                "is_optional": false,
+                "substitutes": [
+                    "Oil"
+                ]
+            }
+        ],
+        "steps": [
+            "Pressure cook dal with turmeric until soft",
+            "Heat ghee, add cumin and garlic",
+            "Add onion and sauté until golden",
+            "Add tomato, cook until soft",
+            "Pour tadka over dal and mix"
+        ],
+        "requires_soaking": false,
+        "soak_ingredient": null,
+        "soak_hours": 0,
+        "cuisine": "indian",
+        "calories_approx": 300,
+        "protein_approx": 18
+    },
+    {
+        "id": "decompress_4",
+        "name": "Aloo Bhujia",
+        "description": "Simple potato stir-fry - pairs with roti or rice",
+        "time_tier": 30,
+        "prep_time_minutes": 10,
+        "cook_time_minutes": 20,
+        "is_rice_friendly": true,
+        "is_wet": false,
+        "is_dry": true,
+        "is_deskside": false,
+        "is_grab_and_go": false,
+        "is_comfort_food": true,
+        "is_premium": false,
+        "is_vegetarian": true,
+        "is_vegan": true,
+        "ingredients": [
+            {
+                "name": "Potato",
+                "quantity": 3,
+                "unit": "medium",
+                "is_optional": false,
+                "substitutes": []
+            },
+            {
+                "name": "Onion",
+                "quantity": 1,
+                "unit": "piece",
+                "is_optional": true,
+                "substitutes": []
+            },
+            {
+                "name": "Cumin Seeds",
+                "quantity": 1,
+                "unit": "tsp",
+                "is_optional": false,
+                "substitutes": []
+            },
+            {
+                "name": "Turmeric",
+                "quantity": 0.5,
+                "unit": "tsp",
+                "is_optional": false,
+                "substitutes": []
+            },
+            {
+                "name": "Oil",
+                "quantity": 2,
+                "unit": "tbsp",
+                "is_optional": false,
+                "substitutes": []
+            }
+        ],
+        "steps": [
+            "Peel and cube potatoes",
+            "Heat oil, add cumin seeds",
+            "Add potatoes and turmeric",
+            "Cover and cook on low 15-20 min",
+            "Season and serve"
+        ],
+        "requires_soaking": false,
+        "soak_ingredient": null,
+        "soak_hours": 0,
+        "cuisine": "indian",
+        "calories_approx": 280,
+        "protein_approx": 5
+    },
+    {
+        "id": "decompress_5",
+        "name": "Rajma Curry",
+        "description": "Kidney bean curry - protein powerhouse",
+        "time_tier": 30,
+        "prep_time_minutes": 10,
+        "cook_time_minutes": 25,
+        "is_rice_friendly": true,
+        "is_wet": true,
+        "is_dry": false,
+        "is_deskside": false,
+        "is_grab_and_go": false,
+        "is_comfort_food": true,
+        "is_premium": true,
+        "is_vegetarian": true,
+        "is_vegan": true,
+        "ingredients": [
+            {
+                "name": "Rajma (Kidney Beans)",
+                "quantity": 1,
+                "unit": "cup",
+                "is_optional": false,
+                "substitutes": [
+                    "Chole"
+                ]
+            },
+            {
+                "name": "Onion",
+                "quantity": 1,
+                "unit": "piece",
+                "is_optional": false,
+                "substitutes": []
+            },
+            {
+                "name": "Tomato",
+                "quantity": 2,
+                "unit": "pieces",
+                "is_optional": false,
+                "substitutes": []
+            },
+            {
+                "name": "Ginger-Garlic Paste",
+                "quantity": 1,
+                "unit": "tbsp",
+                "is_optional": false,
+                "substitutes": []
+            },
+            {
+                "name": "Rajma Masala",
+                "quantity": 2,
+                "unit": "tsp",
+                "is_optional": false,
+                "substitutes": [
+                    "Garam Masala"
+                ]
+            }
+        ],
+        "steps": [
+            "Use pre-soaked rajma or canned",
+            "Pressure cook until soft",
+            "Make onion-tomato gravy",
+            "Add cooked rajma and masala",
+            "Simmer 10 min and serve with rice"
+        ],
+        "requires_soaking": true,
+        "soak_ingredient": "Rajma",
+        "soak_hours": 8,
+        "cuisine": "indian",
+        "calories_approx": 380,
+        "protein_approx": 22
+    }
+]
