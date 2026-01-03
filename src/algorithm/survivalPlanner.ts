@@ -301,8 +301,11 @@ function generateLogistics(
     for (const [ingredient, required] of requiredIngredients) {
         const inPantry = pantryMap.get(ingredient);
 
-        if (!inPantry || inPantry.quantity < required.quantity) {
-            const needed = required.quantity - (inPantry?.quantity || 0);
+        // Safely parse pantry quantity to number (handles string or number)
+        const pantryQuantity = Number(inPantry?.quantity) || 0;
+
+        if (!inPantry || pantryQuantity < required.quantity) {
+            const needed = required.quantity - pantryQuantity;
             groceryTasks.push({
                 id: `grocery_${ingredient}_${Date.now()}`,
                 ingredient,
