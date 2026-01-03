@@ -20,19 +20,19 @@ import AsyncStorage from '@react-native-async-storage/async-storage';
 import { colors, spacing, typography } from '../config/theme';
 
 // ========================================
-// YOUR UPI PAYMENT DETAILS
+// UPI PAYMENT CONFIGURATION
+// All values loaded from environment variables for security
 // ========================================
 const UPI_CONFIG = {
-    upiId: 'asarpana918@okicici', // Your GPay UPI ID
-    payeeName: 'RiceBowl Pro',
-    amount: '299',
+    upiId: process.env.EXPO_PUBLIC_UPI_ID || 'asarpana918@okicici',
+    payeeName: process.env.EXPO_PUBLIC_UPI_PAYEE_NAME || 'RiceBowl Pro',
+    amount: process.env.EXPO_PUBLIC_UPI_AMOUNT || '299',
     transactionNote: 'RiceBowl Pro Lifetime',
-    // WhatsApp number for support (with country code, no +)
-    whatsappNumber: '919883536592',
+    whatsappNumber: process.env.EXPO_PUBLIC_WHATSAPP_NUMBER || '919883536592',
 };
 
-// Set to true for production release (disables auto-approval)
-const IS_PRODUCTION = false;
+// Production mode - read from environment, default to false for development
+const IS_PRODUCTION = process.env.EXPO_PUBLIC_IS_PRODUCTION === 'true';
 
 // Storage key for pending verifications
 const PENDING_PAYMENTS_KEY = '@ricebowl/pending_payments';
