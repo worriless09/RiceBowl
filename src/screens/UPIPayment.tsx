@@ -62,8 +62,7 @@ export function UPIPayment({ onClose, onPaymentSuccess }: UPIPaymentProps) {
             const canOpen = await Linking.canOpenURL(upiUrl);
             if (canOpen) {
                 await Linking.openURL(upiUrl);
-                // Move to verification step after opening UPI app
-                setTimeout(() => setStep('verify'), 1000);
+                // User will manually tap "Already paid? Verify payment →" when ready
             } else {
                 Alert.alert(
                     'No UPI App Found',
