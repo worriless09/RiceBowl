@@ -105,6 +105,7 @@ function checkLeftovers(pantryItems: PantryItem[], currentTime: string): Leftove
     const hour = parseInt(currentTime.split(':')[0]);
     const isNinePM = hour === 21;
 
+    // Filter items marked as leftovers
     const leftoverItems = pantryItems.filter(item => item.is_leftover);
 
     if (leftoverItems.length === 0 || !isNinePM) {
